@@ -1,4 +1,4 @@
-# Hi, I'm Srivani Yadav 👋
+# Hi, I'm SRIVANI GOLLA 👋
 
 ### Aspiring Software Engineer | Web Developer | Data Analyst | Data Science Enthusiast
 
