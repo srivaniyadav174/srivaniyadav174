@@ -1,10 +1,22 @@
-# Hi, I'm SRIVANI GOLLA 👋
+# Hi 👋, I'm SRIVANI GOLLA
 
-### Aspiring Software Engineer | Web Developer | Data Analyst | Data Science Enthusiast
+### Software Developer | Data Analyst | Data Science Enthusiast
 
-I am a passionate Computer Science student interested in building impactful software solutions and exploring data-driven technologies. I enjoy developing web applications, solving coding problems, and working on innovative projects.
+Passionate Computer Science student focused on building scalable applications, solving real-world problems, and leveraging data to drive insights. I enjoy full-stack development, data analytics, machine learning, and creating innovative software solutions.
 
-## 🚀 Skills
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Student
+* 💻 Interested in Software Development, Data Analytics, and Data Science
+* 🌱 Currently learning Machine Learning, Data Visualization, and Advanced Web Development
+* 🔍 Actively solving coding problems and improving problem-solving skills
+* 🎯 Goal: Become a Software Engineer / Data Analyst / Data Scientist
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
@@ -13,56 +25,73 @@ I am a passionate Computer Science student interested in building impactful soft
 * JavaScript
 * SQL
 
-### Web Development
+### Web Technologies
 
 * HTML5
 * CSS3
 * JavaScript
 * Responsive Web Design
 
-### Data & Analytics
+### Data Analytics & Data Science
 
 * Python
 * Pandas
 * NumPy
+* Data Cleaning
 * Data Visualization
-* Data Analysis
+* Exploratory Data Analysis (EDA)
 
-### Tools & Technologies
+### Tools & Platforms
 
 * Git
 * GitHub
-* Android Studio
 * VS Code
+* Android Studio
+* MySQL
 
-## 📌 Featured Projects
+---
+
+## 📂 Featured Projects
 
 ### 🎵 Emotion-Based Music Recommendation System
 
-* Detects user emotions and recommends music accordingly.
-* Built using Android, Kotlin, TensorFlow Lite, and Spotify integration.
+* Detects user emotions using facial recognition.
+* Recommends music based on emotional state.
+* Technologies: Kotlin, Android Studio, TensorFlow Lite, Spotify Integration.
 
 ### 🗳️ Online Voting System
 
-* Secure web-based voting platform.
-* Supports user authentication, vote casting, and result management.
+* Secure online voting platform.
+* User authentication and vote management.
+* Technologies: HTML, CSS, JavaScript.
 
-## 💻 Coding Profiles
+### 🌐 Personal Portfolio Website
+
+* Responsive portfolio showcasing projects and skills.
+* Built using HTML, CSS, and JavaScript.
+
+---
+
+## 📈 Coding Profiles
 
 * LeetCode: https://leetcode.com/u/srivaniyadav174/
 * HackerRank: https://www.hackerrank.com/profile/srivaniyadav174
 
-## 🌱 Currently Learning
+---
 
-* Data Science
-* Machine Learning
-* Advanced Web Development
-* System Design
+## 📊 GitHub Stats
 
-## 📫 Contact
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivaniyadav174\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivaniyadav174\&layout=compact)
+
+---
+
+## 📫 Connect With Me
 
 * Email: [srivaniyadav174@gmail.com](mailto:srivaniyadav174@gmail.com)
+* GitHub: https://github.com/srivaniyadav174
 
-## ⚡ Fun Fact
+---
 
-I enjoy transforming ideas into real-world software projects and continuously improving my problem-solving skills.
+### ⭐ "Learning, Building, and Growing Every Day."
